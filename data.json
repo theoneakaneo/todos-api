@@ -1,17 +1,17 @@
 {
     "todos": [
         {
-            "task": "Eat",
+            "task": "Eating",
             "id": 1,
             "complete": false
         },
         {
-            "task": "Sleep",
+            "task": "Sleeping",
             "id": 2,
             "complete": false
         },
         {
-            "task": "Code",
+            "task": "Coding",
             "id": 3,
             "complete": false
         }
